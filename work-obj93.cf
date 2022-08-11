@@ -1,0 +1,7 @@
+v 4
+file . "compara.vhd" "d9dede00e813d0fead88c73887e762d2449ed504" "20220810010706.935":
+  entity compara at 1( 0) + 0 on 11;
+  architecture circ of compara at 11( 253) + 0 on 12;
+file . "compara_tb.vhd" "ad41336f14c353e493fb682573117201367fdafa" "20220810013650.296":
+  entity compara_tb at 1( 0) + 0 on 15;
+  architecture entradas_compara of compara_tb at 7( 107) + 0 on 16;
